@@ -18,9 +18,9 @@ Objetivo especifico_
 
 MARCO TEORICO.
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe-N5/blob/main/MP1.png)
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe-N5/blob/main/MP2.png)
 
 ![](
 
