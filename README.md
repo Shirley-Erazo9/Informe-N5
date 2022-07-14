@@ -12,9 +12,13 @@ Docente: ING. Darwin Omar Alulema Flores.
 
 Objetivos.
 
-Objetivo generaL: 
+Objetivo generaL: El electromagnetismo es la rama de la física que estudia los fenómenos eléctricos, magnéticos y sus propiedades.
 
-Objetivo especifico_
+Es importante definir conceptos adicionales tales como nodos, lazos y ramas, que no son elementos dentro del circuito.
+
+Objetivo especifico: Podemos determinarle al magnetismo como un fenómeno físico en el cual ejercen fuerzas de atracción o repulsión.
+
+Un circuito abierto puede suceder teóricamente por una resistor con infinita resistencia.
 
 MARCO TEORICO.
 
@@ -22,9 +26,7 @@ MARCO TEORICO.
 
 ![](https://github.com/Shirley-Erazo9/Informe-N5/blob/main/MP2.png)
 
-![](
-
-![](
+![](https://github.com/Shirley-Erazo9/Informe-N5/blob/main/MP3.png)
 
 RESOLUCIÓN DE PROBLEMAS.
 
@@ -187,12 +189,15 @@ SECCIÓN 10–6 Aplicaciones de la inducción electromagnética.
 
 CONCLUSIONES.
 
+En conclusión el magnetismo cuenta con dos fenómenos y se puede presentar mediante los imanes. 
+
+En conclusión el electromagnetismo surge entre la conexión que tiene el magnetismo y la carga de la distinguida corriente electrica.
+
+En conclusión una rama se le puede determinar a conexiones o conductores diferentes que salen de un nodo determinado y finalmente conectan en el mismo nodo.
+
+En conclusión los circuitos eléctricos, se conoce como lazo al camino cerrado que forman dos o más ramas.
 
 BIBLIOGRAFÍA.
 
 (Floyd,T)(2007). Principios de circuitos eléctricos 8va edición. 
 http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
-
-
-
-
